@@ -762,8 +762,8 @@ MonoBehaviour:
   m_OnClick:
     m_PersistentCalls:
       m_Calls:
-      - m_Target: {fileID: 603252043}
-        m_MethodName: LoadNextScene
+      - m_Target: {fileID: 556560318}
+        m_MethodName: onPressLower
         m_Mode: 1
         m_Arguments:
           m_ObjectArgument: {fileID: 0}
@@ -1759,8 +1759,8 @@ MonoBehaviour:
   m_OnClick:
     m_PersistentCalls:
       m_Calls:
-      - m_Target: {fileID: 603252043}
-        m_MethodName: LoadNextScene
+      - m_Target: {fileID: 556560318}
+        m_MethodName: onPressHigher
         m_Mode: 1
         m_Arguments:
           m_ObjectArgument: {fileID: 0}
